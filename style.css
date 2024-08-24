@@ -49,6 +49,12 @@ body{
     display: none;
 }
 
+#home-content {
+    text-align: justify;
+    justify-content: center;
+    text-justify: auto;
+}
+
 .content.active {
     display: block;
 }
