@@ -28,7 +28,7 @@ body{
 .tabContainer .tabBtn{
     font-size: 24px;
     font-weight: 600;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: transparent;
     border: 2px solid transparent;
     color: grey;
