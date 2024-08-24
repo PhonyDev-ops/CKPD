@@ -38,6 +38,7 @@ body{
 
 .contentBox{
     padding: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .contentBox .content h2{
