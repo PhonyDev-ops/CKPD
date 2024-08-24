@@ -51,9 +51,6 @@ body{
 
 .content.active {
     display: block;
-    justify-content: center;
-    text-align: justify;
-    text-justify: inter-word;
 }
 
 .tabBtn.active {
